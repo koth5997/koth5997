@@ -1,0 +1,38 @@
+# 👋 안녕하세요! @koth5997입니다
+
+동서대학교 3학년에 재학 중이며, AI, 머신러닝, 스마트 해양 모빌리티에 큰 관심을 가지고 있습니다. 새로운 기술을 탐구하고, 코딩 실력과 문제 해결 능력을 키워줄 다양한 프로젝트에 도전하고 있습니다.
+
+---
+
+## 🔭 진행 중인 프로젝트
+
+- **[koko.github.io](https://github.com/koth5997/koko.github.io)**: 포트폴리오 웹페이지 구축
+- **[IP2024](https://github.com/koth5997/IP2024)**: opencv챕터별로 코딩공부 정리 과제 영상, 이미지 정리
+- **[Engineering-Festival](https://github.com/koth5997/Engineering-Festival-)**: 공학페스티벌 코딩한거 정리 결과 영상 정리
+- **[fakevoice-detection](https://github.com/koth5997/fakevoice-detection)**: dacon fake voice 탐지 ai대회 팀프로젝트 정리 
+- **[my-travel](https://github.com/koth5997/my-travel)**: 여행기록 홈페이지
+- **[Baekjoon-Problem-Solving-Practice](https://github.com/koth5997/Baekjoon-Problem-Solving-Practice)**: 코딩 문제 풀이 연습
+
+---
+
+## 🌱 현재 배우고 있는 것
+-  c++, python
+- AI와 머신러닝
+- 자율운항 선박 관련 기술
+- Oracle SQL Developer와 데이터베이스 관리
+
+## 👀 관심 분야
+
+- 스마트 해양 모빌리티
+- 자율운항 선박
+- 데이터베이스 sql
+
+## 📫 연락 방법
+
+- GitHub: [@koth5997](https://github.com/koth5997)
+- Email: koth5997@gmail.com
+
+---
+
+
+
