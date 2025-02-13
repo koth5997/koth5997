@@ -1,6 +1,6 @@
 # 👋 안녕하세요! @koth5997입니다
 
-동서대학교 3학년에 재학 중이며, AI, 머신러닝, 스마트 해양 모빌리티에 큰 관심을 가지고 있습니다. 새로운 기술을 탐구하고, 코딩 실력과 문제 해결 능력을 키워줄 다양한 프로젝트에 도전하고 있습니다.
+동서대학교 4학년에 재학 중이며, 데이터베이스, 컴퓨터비전, 스마트 해양 모빌리티에 큰 관심을 가지고 있습니다. 새로운 기술을 탐구하고, 코딩 실력과 문제 해결 능력을 키워줄 다양한 프로젝트에 도전하고 있습니다.
 
 ---
 
@@ -12,6 +12,7 @@
 - **[fakevoice-detection](https://github.com/koth5997/fakevoice-detection)**: dacon fake voice 탐지 ai대회 팀프로젝트 정리 
 - **[my-travel](https://github.com/koth5997/my-travel)**: 여행기록 홈페이지
 - **[Baekjoon-Problem-Solving-Practice](https://github.com/koth5997/Baekjoon-Problem-Solving-Practice)**: 코딩 문제 풀이 연습
+- **[Vietnam-Global-Hackathon](https://github.com/koth5997/Vietnam-Global-Hackathon)**:베트남 글로벌해커톤
 
 ---
 
