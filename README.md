@@ -14,6 +14,7 @@
 - **[Baekjoon-Problem-Solving-Practice](https://github.com/koth5997/Baekjoon-Problem-Solving-Practice)**: 코딩 문제 풀이 연습
 - **[Vietnam-Global-Hackathon](https://github.com/koth5997/Vietnam-Global-Hackathon)**:베트남 글로벌해커톤
 - **[Comment-filtering](https://github.com/koth5997/comment-filtering)**: 졸업작품 프로젝트
+- **[DXchallenage](https://github.com/koth5997/DXchallenge)**: 부산 DXChallenge 해커톤프로젝트
 ---
 
 ## 🌱 현재 배우고 있는 것
